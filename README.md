@@ -1,4 +1,4 @@
 # Python
 Basics of python
-Function ,List, Tuple, Set and direactories, Inheritance
+Function ,List, Tuple, Set and directories, Inheritance
 Welcome to python programming
